@@ -99,7 +99,7 @@ Out-of-distribution, Neural Network Calibration, Gumbel-Max trick, Stochastic Be
 * ### [Mathematics for Generative Adversarial Networks](https://github.com/roboticcam/machine-learning-notes/blob/master/files/GAN.pdf) ###
 How GAN works, Traditional GAN, Mathematics on W-GAN, Info-GAN, Bayesian GAN   GAN如何工作，传统GAN，W-GAN数学，Info-GAN，贝叶斯GAN
 
-* ### [Advanced Variational Autoencoder](https://github.com/roboticcam/machine-learning-notes/blob/master/files/vb_nf.pdf) ###
+* ### [A survey of traditional and state-of-the-art Generative Models](https://github.com/roboticcam/machine-learning-notes/blob/master/files/generative_models.pdf) ###
 How Varational Autoencoder works, Importance Weighted Autoencoders, Normalized Flow via ELBO, Adversarial Variational Bayes, Mixture Density VAE, stick-breaking VAE
  变分自编码器的工作原理，重要性加权自编码器，通过ELBO的标准化流，对抗变分贝叶斯, 混合密度自编码器，stick-breaking 自编码器
  
